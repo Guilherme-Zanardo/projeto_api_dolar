@@ -15,3 +15,4 @@ dol_valor_venda = data['value'][0]['cotacaoVenda']
 dol_data = data['value'][0]['dataHoraCotacao']
 
 print(f'Data: {dol_data},\nCompra: {dol_valor_compra},\nVenda: {dol_valor_venda}')
+print('=====================================================================')
